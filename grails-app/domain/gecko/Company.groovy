@@ -18,7 +18,7 @@ class Company {
 	String county
 	String phoneNumber
 
-	static	hasMany = [companyContact:gecko.CompanyContact]
+	static	hasMany = [companyContact:gecko.CompanyContact, tietoIssue:gecko.TietoIssue]
 
 
     	String toString() {

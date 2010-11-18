@@ -14,5 +14,9 @@ class CompanyContact {
 	String phoneNumber
 	String contactEmailAddress
 
+	String toString() {
+		contactName
+	}
+
 
 }
