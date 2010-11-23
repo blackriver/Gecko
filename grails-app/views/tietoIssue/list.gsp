@@ -61,5 +61,6 @@
                 <g:paginate total="${tietoIssueInstanceTotal}" />
             </div>
         </div>
+        <g:render template="/footer" />
     </body>
 </html>

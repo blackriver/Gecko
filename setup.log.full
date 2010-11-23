@@ -1,0 +1,15 @@
+2010/11/20 12:16:00 Starting cygwin install, version 2.712
+2010/11/20 12:16:00 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2010/11/20 12:16:00 io_stream_cygfile: fopen(/etc/setup/last-cache) failed 2 No such file or directory
+2010/11/20 12:16:00 io_stream_cygfile: fopen(/etc/setup/last-action) failed 2 No such file or directory
+2010/11/20 12:16:00 io_stream_cygfile: fopen(/etc/setup/net-method) failed 2 No such file or directory
+2010/11/20 12:16:00 io_stream_cygfile: fopen(/etc/setup/net-proxy-host) failed 2 No such file or directory
+2010/11/20 12:16:00 io_stream_cygfile: fopen(/etc/setup/net-proxy-port) failed 2 No such file or directory
+2010/11/20 12:16:00 io_stream_cygfile: fopen(/etc/setup/last-mirror) failed 2 No such file or directory
+2010/11/20 12:16:00 io_stream_cygfile: fopen(/etc/setup/extrakeys) failed 2 No such file or directory
+2010/11/20 12:16:00 io_stream_cygfile: fopen(/etc/setup/chooser_window_settings) failed 2 No such file or directory
+2010/11/20 12:16:00 Current Directory: C:\Data\Gecko
+2010/11/20 12:16:00 User has NO backup/restore rights
+2010/11/20 12:16:00 Changing gid to Administrators
+2010/11/20 12:16:00 Could not open Service control manager
+2010/11/20 12:16:08 Ending cygwin install

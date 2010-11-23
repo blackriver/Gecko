@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="wl022120" id="0" name="CompanyContactControllerTests" package="gecko" tests="1" time="0.672" timestamp="2010-11-22T22:00:30">
+      <properties />
+
+      <testcase classname="gecko.CompanyContactControllerTests" name="testSomething" time="0.656" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="wl022120" id="1" name="CompanyControllerTests" package="gecko" tests="1" time="0.063" timestamp="2010-11-22T22:00:31">
+      <properties />
+
+      <testcase classname="gecko.CompanyControllerTests" name="testSomething" time="0.047" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="wl022120" id="2" name="CompanyTests" package="gecko" tests="1" time="0.015" timestamp="2010-11-22T22:00:31">
+      <properties />
+
+      <testcase classname="gecko.CompanyTests" name="testSomething" time="0.0" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="wl022120" id="3" name="CopyrightNoticeTagLibTests" package="gecko" tests="1" time="0.328" timestamp="2010-11-22T22:00:31">
+      <properties />
+
+      <testcase classname="gecko.CopyrightNoticeTagLibTests" name="testThisYear" time="0.312" />
+
+      <system-out><![CDATA[--Output from testThisYear--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testThisYear--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="wl022120" id="4" name="TietoIssueControllerTests" package="gecko" tests="1" time="0.062" timestamp="2010-11-22T22:00:31">
+      <properties />
+
+      <testcase classname="gecko.TietoIssueControllerTests" name="testSomething" time="0.062" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

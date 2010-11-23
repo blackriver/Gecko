@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="wl022120" name="gecko.CopyrightNoticeTagLibTests" tests="1" time="0.328" timestamp="2010-11-22T22:00:31">
+  <properties />
+  <testcase classname="gecko.CopyrightNoticeTagLibTests" name="testThisYear" time="0.312" />
+  <system-out><![CDATA[--Output from testThisYear--
+]]></system-out>
+  <system-err><![CDATA[--Output from testThisYear--
+]]></system-err>
+</testsuite>

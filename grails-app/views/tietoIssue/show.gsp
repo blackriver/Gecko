@@ -75,5 +75,6 @@
                 </g:form>
             </div>
         </div>
+        <g:render template="/footer" />
     </body>
 </html>

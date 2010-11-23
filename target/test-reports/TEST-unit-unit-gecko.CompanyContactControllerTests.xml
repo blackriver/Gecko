@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="wl022120" name="gecko.CompanyContactControllerTests" tests="1" time="0.672" timestamp="2010-11-22T22:00:30">
+  <properties />
+  <testcase classname="gecko.CompanyContactControllerTests" name="testSomething" time="0.656" />
+  <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+  <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+</testsuite>

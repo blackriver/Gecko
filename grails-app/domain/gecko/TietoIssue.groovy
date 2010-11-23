@@ -2,18 +2,20 @@ package gecko
 
 class TietoIssue {
 
-	gecko.Company company
-	gecko.CompanyContact companyContact
+	static belongsTo = [company:gecko.Company]
 
-    	static constraints = {
-		issueProduct(maxsize:25)
-		issueDescription(maxsize:1500)
-		issueSummary(maxsize:75, blank:false)
-	}
+	gecko.CompanyContact companyContact
 
 	String issueProduct
 	String issueDescription
 	String issueSummary
+
+    static constraints = {
+		issueSummary(maxsize:75, blank:false)
+		issueDescription(maxsize:1500)
+		issueProduct(maxsize:25)
+	}
+
 
 
 }

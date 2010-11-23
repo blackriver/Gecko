@@ -1,0 +1,10 @@
+Testsuite: gecko.CopyrightNoticeTagLibTests
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.328 sec
+------------- Standard Output ---------------
+--Output from testThisYear--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testThisYear--
+------------- ---------------- ---------------
+
+Testcase: testThisYear took 0.312 sec

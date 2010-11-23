@@ -1,6 +1,6 @@
 package gecko
 
-import grails.test.*
+import grails.
 
 class CompanyTests extends GrailsUnitTestCase {
     protected void setUp() {
